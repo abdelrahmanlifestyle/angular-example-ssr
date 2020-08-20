@@ -1,4 +1,3 @@
 [build]
   command = "npm install && npm run build:ssr"
-  functions = "lambda"
   publish = "dist/angular-starter/browser"
