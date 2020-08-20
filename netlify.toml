@@ -1,4 +1,3 @@
 [build]
   command = "npm install && npm run build:ssr"
-  functions = "dist/angular-starter/server"
-  publish = "dist/angular-starter/browser"
+  publish = "dist/angular-starter/server"
